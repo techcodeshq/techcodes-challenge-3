@@ -11,6 +11,8 @@
 
 - At each intersection there is a fixed amount of time you'll have to wait. This is the `stoplightTime` field.
 
+**NOTE**: The times have no units! Don't worry about the units! I made a dumb mistake!!!!
+
 ### Schema
 
 ```typescript
